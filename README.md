@@ -1,1 +1,3 @@
 # jobs-lists
+
+*.talentrecruit.com
