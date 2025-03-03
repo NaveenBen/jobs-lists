@@ -2,3 +2,5 @@
 
 *.talentrecruit.com
 *.zohorecruit.in
+*.keka.com
+
