@@ -20,7 +20,7 @@ A crowdsourced collection of job board domains and smart search tricks (Google d
 site:*.talentrecruit.com "nestjs"
 ```
 
-> Try it: [NestJS Jobs on TalentRecruit](https://www.google.com/search?q=site:*.talentrecruit.com+nestjs)
+> Try it: [NestJS Jobs on Keka](https://www.google.com/search?q=site:*.keka.com+nestjs)
 
 ---
 
