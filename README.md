@@ -1,6 +1,6 @@
 # jobs-lists
 
-*.talentrecruit.com
-*.zohorecruit.in
-*.keka.com
+- *.talentrecruit.com
+- *.zohorecruit.in
+- *.keka.com
 
