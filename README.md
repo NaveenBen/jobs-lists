@@ -29,6 +29,7 @@ site:*.talentrecruit.com "nestjs"
 - `site:*.talentrecruit.com`
 - `site:*.zohorecruit.in`
 - `site:*.keka.com`
+- `site:*.zohorecruit.in`
 ---
 
 ## 🙌 Contributing
